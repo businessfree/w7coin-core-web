@@ -1,5 +1,5 @@
 <?php
-require_once('easyw7coin.php');
+require_once('we.corew7coin.php');
  
 $w7coin = new w7coin('elizeu','12345678'); //somente usuario e senha a fica no easyw7coin
 
